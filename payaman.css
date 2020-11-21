@@ -1,0 +1,188 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css');
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+
+body {
+  background-color:#05327A;
+}
+
+.icon {
+  float: left;
+  height: 145px;
+  width: 200px; 
+  margin-left: 20px;
+  padding: 10px;
+  margin-top:-10px;
+}
+
+h1 {
+  font-family: 'Big Shoulders Stencil Text', cursive;
+  margin-left: 590px;
+  margin-top: 20px;
+  font-size: 50px;
+  
+}
+
+h2 {
+  text-align: center;
+ font-family: 'Teko', sans-serif;
+  
+}
+
+.image-2 {
+  margin-top: 300px;
+  margin-left: -270px;
+  background-color: #384D5C; 
+  color: black; 
+  border: 2px solid black;
+  height: 75px;
+  width: 100px;
+  
+}
+
+.image-2:hover {
+  background-color: gray;
+  color: black;
+ 
+}
+
+.image-3 {
+ margin-left: 10px;
+ background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+}
+
+.image-3:hover {
+  background-color: gray;
+  color: black;
+}
+
+.image-4 {
+ margin-left: 10px;
+ background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+}
+
+.image-4:hover {
+  background-color: gray;
+  color: black;
+}
+
+.image-5 {
+ margin-left: 325px;
+ background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+  margin-top: 10px;
+}
+.image-5:hover {
+  background-color: gray;
+  color: black;
+}
+
+.image-6 {
+ background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+ margin-top: -400px;
+  margin-left: -191px;
+}
+.image-6:hover {
+  background-color: gray;
+  color: black;
+}
+
+.bread {
+  border-style: solid;
+  border: 10px solid black;
+  width: 800px;
+  margin-left: 10px;
+  margin-top: 10px; 
+  background-color: #2B416B;
+  background-image: url("https://scontent.xx.fbcdn.net/v/t1.15752-0/p280x280/125250331_708702063381992_6886164485044500557_n.png?_nc_cat=106&ccb=2&_nc_sid=ae9488&_nc_eui2=AeFQj7ZDTZTLpMhLWFaqbV80rzjS-k1fqZWvONL6TV-plRKcuWo_uRtpbGHUkcn2C-Af94xUHo7yaMzNVk-BpbQG&_nc_ohc=kUcShIZXL0MAX_2EAbT&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=a5f34a63e506e51553921aa3b106220e&oe=5FDAD95F")
+}
+
+
+.bread-1 {
+  border:2px solid black;
+  border-style: solid;
+  margin-top: -500px;
+  width: 150px;
+  height:150px;
+  margin-left: 325px;
+  background-color: white;
+}
+
+.resibo {
+  border: 10px solid black;
+  border-style: dotted dashed solid double;
+  height: 400px;
+  width: 450px;
+  margin-left: 900px;
+  margin-top: -472px;
+  background-color: white;
+  
+}
+
+.donut {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.pandesal {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.kape {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.putok {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+.hopia {
+  text-align: left;
+  margin-left: 10px;
+  font-family: 'Big Shoulders Stencil Text', cursive;
+}
+
+
+.total-1 {
+  background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+  margin-left: 200px;
+  margin-top: 20px;
+  
+}
+
+.total-1:hover {
+  background-color: gray;
+  color: black;
+ 
+}
+
+.blank {
+  margin-bottom: 30px;
+  margin-left: 600px;
+  background-color: #384D5C; 
+ color: black; 
+ border: 2px solid black;
+
+}
+
+.blank:hover {
+  background-color: gray;
+  color: black;
+}
